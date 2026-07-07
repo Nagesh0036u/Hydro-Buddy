@@ -7,6 +7,7 @@ It helps users develop healthy hydration habits by tracking daily water intake, 
 ---
 DEMO LINK:
 https://hydro-buddy-8cebdbh4rekikepfran59c.streamlit.app/
+---
 
 ## ✨ Features
 
