@@ -35,4 +35,4 @@ https://hydro-buddy-8cebdbh4rekikepfran59c.streamlit.app/
 ---
 author 
 
-LIKITHA BN
+NAGESH R
