@@ -33,6 +33,6 @@ https://hydro-buddy-8cebdbh4rekikepfran59c.streamlit.app/
 - Streamlit Auto Refresh
 
 ---
-author 
+AUTHOR
 
 NAGESH R
